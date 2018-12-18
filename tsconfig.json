@@ -58,6 +58,8 @@
     // "emitDecoratorMetadata": true,         /* Enables experimental support for emitting type metadata for decorators. */
   },
   "files": [
-    "app.ts"
+    "app.ts",
+    "basic.ts",
+    "interface.ts"
   ]
 }
