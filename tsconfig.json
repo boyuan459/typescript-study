@@ -60,6 +60,7 @@
   "files": [
     "app.ts",
     "basic.ts",
-    "interface.ts"
+    "interface.ts",
+    "class_2.ts"
   ]
 }
