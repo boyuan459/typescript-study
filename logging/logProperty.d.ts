@@ -1,0 +1,1 @@
+export declare function logProperty(target: Object, propertyKey: string) : void;
